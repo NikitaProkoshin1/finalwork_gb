@@ -23,7 +23,7 @@
 из этого репозитория.![Task 3](https://github.com/NikitaProkoshin1/finalwork_gb/assets/115005189/9f4f6cff-96ef-40ff-b1b9-a060bb166f8c)
 4. Установить и удалить deb-пакет с помощью dpkg.
 ![Task 4](https://github.com/NikitaProkoshin1/finalwork_gb/assets/115005189/137b29d5-87ba-4c23-a6c0-197fe70b98a1)
-5. Выложить историю команд в терминале ubuntu
+5. Выложить [историю команд](https://github.com/NikitaProkoshin1/finalwork_gb/blob/main/command_history.md) в терминале ubuntu
 6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние
 животные и вьючные животные, в составы которых в случае домашних
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
