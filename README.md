@@ -71,7 +71,14 @@ CREATE TABLE home_animals
 
 INSERT INTO home_animals (Genus_name, Class_id)
 VALUES ('Кошки', 2),
-('Собаки', 2),  0
+('Собаки', 2),  
+('Хомяки', 2); 
+
+CREATE TABLE cats 
+(       
+    Id INT AUTO_INCREMENT PRIMARY KEY, 
+    Name VARCHAR(20), 
+    Birthday DATE,
     Commands VARCHAR(50),
     Genus_id int,
     Foreign KEY (Genus_id) REFERENCES home_animals (Id) ON DELETE CASCADE ON UPDATE CASCADE
